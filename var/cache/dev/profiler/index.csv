@@ -1,0 +1,17 @@
+cf9b0c,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/advert/5,1503586017,,200
+d5430a,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/advert/5,1503586071,,200
+070ce4,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/add,1503586284,,302
+ca4668,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/advert/5,1503586284,,200
+e517f8,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/advert/5,1503586287,,200
+e67c39,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/advert/5,1503586321,,200
+1c80be,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/advert/5,1503586325,,200
+2715cc,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/advert/5,1503586327,,200
+807112,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/add,1503586334,,302
+3fe03b,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/advert/5,1503586334,,200
+0ad003,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/advert/5,1503586342,,200
+28d89c,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/delete/5,1503586599,d6f62b,200
+d6f62b,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/delete/5,1503586599,,500
+77fbc1,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/delete/5,1503586624,e10869,200
+e10869,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/delete/5,1503586624,,500
+db1612,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/0,1503586691,2503a5,200
+2503a5,127.0.0.1,GET,http://localhost/Symfony/web/app_dev.php/platform/0,1503586691,,404
