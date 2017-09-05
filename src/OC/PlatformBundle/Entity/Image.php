@@ -1,5 +1,5 @@
 <?php
-// src/OC/PlatformBundle/Entity/Image
+// src/OC/PlatformBundle/Entity/Image.php
 
 namespace OC\PlatformBundle\Entity;
 
@@ -7,7 +7,7 @@ use Doctrine\ORM\Mapping as ORM;
 
 /**
  * @ORM\Table(name="oc_image")
- * @ORM\Entity(repositoryClass="OC\PlatformBundle\Entity\ImageRepository")
+ * @ORM\Entity
  */
 class Image
 {
@@ -27,6 +27,8 @@ class Image
      * @ORM\Column(name="alt", type="string", length=255)
      */
     private $alt;
+
+    // Getters et setters
 
     /**
      * Get id
